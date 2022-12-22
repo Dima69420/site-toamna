@@ -100,3 +100,6 @@ height: fit-content;
     color:white;
     text-align: center;
 }
+strong {
+    font-size: 30px;
+}
